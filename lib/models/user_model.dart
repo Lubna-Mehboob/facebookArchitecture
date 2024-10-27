@@ -1,0 +1,1 @@
+// Model for user data (name, profile info, etc.)

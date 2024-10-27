@@ -1,0 +1,1 @@
+//Screen to display the user's friends

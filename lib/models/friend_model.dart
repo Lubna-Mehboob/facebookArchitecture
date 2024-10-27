@@ -1,0 +1,1 @@
+// handles data about friends and friend requests.
